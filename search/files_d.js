@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['ode_5fforward_5feuler_2ec_441',['ode_forward_euler.c',['../d4/d07/ode__forward__euler_8c.html',1,'']]],
-  ['ode_5fmidpoint_5feuler_2ec_442',['ode_midpoint_euler.c',['../d1/dc2/ode__midpoint__euler_8c.html',1,'']]],
-  ['ode_5fsemi_5fimplicit_5feuler_2ec_443',['ode_semi_implicit_euler.c',['../d4/d99/ode__semi__implicit__euler_8c.html',1,'']]]
+  ['naval_5fbattle_2ec_0',['naval_battle.c',['../db/de2/naval__battle_8c.html',1,'']]],
+  ['newton_5fraphson_5froot_2ec_1',['newton_raphson_root.c',['../dd/d08/newton__raphson__root_8c.html',1,'']]]
 ];
